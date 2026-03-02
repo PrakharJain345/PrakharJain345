@@ -17,7 +17,6 @@ I'm a passionate full-stack developer who loves building clean, user-friendly we
 
 - 🔭 Currently building projects with **React** and **Tailwind CSS**
 - 🌱 Always learning and exploring new tools in the web ecosystem
-- 💬 Ask me about **JavaScript, Python, or frontend development**
 - ⚡ Fun fact: I love participating in hackathons and collaborating on creative ideas
 
 ---
