@@ -1,4 +1,4 @@
-<div align="center">
+=<div align="center">
 
 # Hi there, I'm Prakhar Jain 👋
 
@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate full-stack developer who loves building clean, user-friendly web experiences. I enjoy working across the entire development stack — from crafting pixel-perfect UIs to designing scalable backend logic.
+I'm a passionate full-stack developer who loves building clean, user-friendly web experiences. I enjoy working across the entire development stack - from crafting pixel-perfect UIs to designing scalable backend logic.
 
 - 🔭 Currently building projects with **React** and **Tailwind CSS**
 - 🌱 Always learning and exploring new tools in the web ecosystem
@@ -68,6 +68,6 @@ I'm a passionate full-stack developer who loves building clean, user-friendly we
 
 ---
 
-*💡 Always open to collaborating on interesting projects and hackathons — feel free to reach out!*
+*💡 Always open to collaborating on interesting projects and hackathons - feel free to reach out!*
 
 </div>
